@@ -1,0 +1,23 @@
+[JSP]request.getParameter란?<첨부>
+https://m.blog.naver.com/PostView.nhn?blogId=sangnam18&logNo=110093843511&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+[JSP]EL과 JSTL 한방에 정리
+https://hunit.tistory.com/203
+
+[Spring기초강좌-유튜브]신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정
+https://youtu.be/CsOrR-4nH-s
+
+[JAVA강좌-유튜브]이것이 자바다
+https://youtu.be/Sos11X7wy1M
+
+[자바 자료형 종류 및 형태]
+http://dpug.tistory.com/28#.W9W8IJMzaUk
+기본 자료형 : char, byte, short, int, long, double, float, boolean
+- 기본 자료형으로 선언된 변수에는 실제 값이 저장된다.
+- 예)char c = 'A'; int i = 10; boolean flag = true;
+
+참조 자료형 : 클래스 , 인터페이스 , 배열
+- 참조 자료형으로 선언된 변수에는 인스턴스에 대한 주소값이 저장된다.
+
+[자바 자료구조 종류 및 형태]
+https://onsil-thegreenhouse.github.io/programming/java/2018/02/18/java_tutorial_1-22/
