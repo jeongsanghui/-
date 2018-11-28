@@ -68,6 +68,8 @@ https://fullcalendar.io/download => 풀캘린더 소스 다운로드
 http://forest71.tistory.com/119  => 풀캘린더 상세하게 설명
 https://fullcalendar.io/docs/event-object => 풀캘린더 이벤트 종류 및 설명
 http://wickedmagic.tistory.com/501
+https://stackoverflow.com/questions/15734105/jquery-ui-tooltip-does-not-support-html-content =>tooltip에선 html이 지원이안되지만 
+사용가능하게끔 도와
 
 [colorpicker]
 https://ourcodeworld.com/articles/read/81/top-5-best-javascript-and-jquery-color-picker-plugins
