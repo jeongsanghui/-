@@ -2,13 +2,23 @@
 https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU/edit#
 [이클립스 단축키]
 https://blog.outsider.ne.kr/243
+http://egloos.zum.com/littletrue/v/3987863
+[JAVA설치방법-jdk다운 환경변수설정, jdk정상설치확인, 이클립스 다운]
+https://wwst.tistory.com/96
 
 [JSP]request.getParameter란?<첨부>
 https://m.blog.naver.com/PostView.nhn?blogId=sangnam18&logNo=110093843511&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
-
 [JSP]EL과 JSTL 한방에 정리
 https://hunit.tistory.com/203
 http://a07274.tistory.com/221
+[JSP]JDBC(오라클)연습
+https://m.blog.naver.com/PostView.nhn?blogId=heartflow89&logNo=221010467698&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+[절대경로 / 상대경로]
+https://88240.tistory.com/122
+
+[SVN충돌 해결법]
+https://donxu.tistory.com/entry/SubclipseSVN에서-충돌conflict이-일어나는-경우-해결법
 
 [Spring기초강좌-유튜브]신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정
 https://youtu.be/CsOrR-4nH-s
@@ -68,8 +78,8 @@ https://fullcalendar.io/download => 풀캘린더 소스 다운로드
 http://forest71.tistory.com/119  => 풀캘린더 상세하게 설명
 https://fullcalendar.io/docs/event-object => 풀캘린더 이벤트 종류 및 설명
 http://wickedmagic.tistory.com/501
-https://stackoverflow.com/questions/15734105/jquery-ui-tooltip-does-not-support-html-content =>tooltip에선 html이 지원이안되지만 
-사용가능하게끔 도와
+https://stackoverflow.com/questions/15734105/jquery-ui-tooltip-does-not-support-html-content 
+  =>tooltip에선 html이 지원이안되지만 사용가능하게끔 도와준다.
 
 [colorpicker]
 https://ourcodeworld.com/articles/read/81/top-5-best-javascript-and-jquery-color-picker-plugins
